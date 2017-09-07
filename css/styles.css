@@ -1,0 +1,22 @@
+h1 {
+  color: lightgreen;
+  font-weight: bolder;
+}
+
+p {
+  color: red;
+  font-family: fantasy;
+}
+
+body {
+  background-color: black;
+}
+
+ul {
+  color: white;
+}
+
+h2 {
+  font-family: cursive;
+  color: pink;
+}
